@@ -66,4 +66,4 @@ result_label = tk.Label(root, textvariable=result_var)
 result_label.pack()
 
 # Запуск главного цикла программы
-root.mainloop()
+root.mainloop() о
